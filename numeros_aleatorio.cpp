@@ -8,6 +8,8 @@
 #include <ctime>  
 using namespace std; 
 
+//DOCUMENTE LA FUNCION
+
 int suma_num_aleatorios(int cantidad, int limite_inferior, int limite_superior) {
     srand(time(0)); 
     int suma = 0;
