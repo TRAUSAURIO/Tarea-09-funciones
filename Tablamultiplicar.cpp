@@ -5,6 +5,7 @@
 #include <iostream> 
 using namespace std; 
 
+
 //DOCUMENTE LA FUNCION
 
 void tabla_multiplicar(int n) {
