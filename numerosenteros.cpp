@@ -5,6 +5,7 @@
 #include <iostream>
 using namespace std;
 
+//DOCUMENTE LA FUNCION
 int cuadrado_entero(int n) {
     return n * n;
 }
