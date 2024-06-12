@@ -6,6 +6,9 @@
 #include <iostream> 
 using namespace std; 
 
+//DOCUMENTE LA FUNCION
+//FALTA LA FUNCIÓN TABLA DE MULTIPLICAR CREADA EN CLASES.
+
 void tablas_multiplicar_20() {
     for (int n = 1; n <= 20; ++n) {
         cout << "Tabla del " << n << endl;
