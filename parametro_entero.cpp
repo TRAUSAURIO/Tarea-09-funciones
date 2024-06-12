@@ -7,6 +7,7 @@
 #include <cmath> 
 using namespace std; 
 
+//DOCUMENTE LA FUNCION
 int cantidad(int n) {
     if (n == 0) return 1; 
     int contador = 0;
