@@ -5,6 +5,8 @@
 #include <iostream> 
 using namespace std; 
 
+//DOCUMENTE LA FUNCION
+
 int es_par(int n) {
     if (n % 2 == 0)
         return 1; 
